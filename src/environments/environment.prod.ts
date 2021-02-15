@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  apiURL: "http://ecom-api.redfox-ws.com/api",
+  production: true,
 };
